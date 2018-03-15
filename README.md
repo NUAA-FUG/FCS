@@ -1,0 +1,2 @@
+# FCS
+Fedora common script
