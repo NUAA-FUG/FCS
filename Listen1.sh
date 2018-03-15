@@ -7,4 +7,6 @@ wget -q --show-progress https://github.com/listen1/listen1_desktop/releases/down
 
 chmod a+x Listen1_1.5.2_linuxx86_64.AppImage
 
-./Listen1_1.5.2_linuxx86_64.AppImage
+sudo ./Listen1_1.5.2_linuxx86_64.AppImage
+
+sudo rm Listen1_1.5.2_linuxx86_64.AppImage
