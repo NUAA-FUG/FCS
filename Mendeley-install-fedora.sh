@@ -12,7 +12,8 @@ sudo tar -xvf mendeley.tar.bz2 -C /opt/
 # Open /opt/ folder and rename mendeley
 cd /opt/
 
-echo use mv command to change the name of folder mendeleydesktop-x.x.x-linux-x86_64 to mendeleydesktop.like sudo mv mendeleydesktop-1.17.13-linux-x86_64/ mendeleydesktop/
+echo -e "use mv command to change the name of folder mendeleydesktop-x.x.x-linux-x86_64 to mendeleydesktop. like this:\n"
+echo "sudo mv mendeleydesktop-1.17.13-linux-x86_64/ mendeleydesktop/"
 # sudo mv mendeleydesktop-1.17.13-linux-x86_64/ mendeleydesktop/
 
 # Open /bin/ folder
