@@ -1,4 +1,4 @@
 # FCS
-Fedora common script
 
-:us: | english
+:us: | English :cn: | 中文 
+
