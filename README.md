@@ -58,11 +58,16 @@ Not only can you use this script to install Mendeley but also update Mendeley in
 
 Just as word shows,this script is used to update typora.For more information,go [this page](https://github.com/Triple-R/typora-update) .
 
-### PyCharm-pro.sh 
+### PyCharm-pro.sh
 
 As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
 *version 2017.3.4*
+
+### IDEA-Community.sh && IDEA-Ultimate.sh
+
+IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,other one need to buy.`IDEA-Community.sh` will install the free version,`IDEA-Ultimate.sh` will install the version you should buy.
+*version 2017.3.5*
 
 ## Copyright
 

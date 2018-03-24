@@ -60,6 +60,10 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 
 众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2017.3.4。
 
+### IDEA-Community.sh && IDEA-Ultimate.sh
+
+IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。如果你是学生用户或者已经购买了 IDEA，你可以使用 `IDEA-Ultimate.sh` 来安装。否则，请使用 `IDEA-Community.sh` 来安装社区版。当前软件版本 V 2017.3.5。
+
 ## 版权声明
 
 该项目遵循 [MIT 许可协议](https://github.com/Triple-R/FCS/blob/master/LICENSE)
