@@ -61,6 +61,6 @@ sudo genpac --format=pac --pac-proxy="SOCKS5 127.0.0.1:1080" -o /etc/pac.txt
 sudo dnf install -y musicbox
 
 # Install Netease Cloud Music (GUI version)
-sudo dnf copr enable yelanxin/netease-cloud-music
-sudo dnf install netease-cloud-music
+sudo dnf copr enable yelanxin/netease-cloud-music -y
+sudo dnf install -y netease-cloud-music
 
