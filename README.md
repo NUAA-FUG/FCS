@@ -7,7 +7,7 @@ What does **FCS** mean? It means Fedora Common Script  that can help you initial
 
 ## Basic.sh
 
-This script will install some basic sofeware and dependencies.LIst below:
+This script will install some basic sofeware and dependencies.
 
 - [x] Add RPM Fusion Repository.
 - [x] Install basic applications like git vim etc.
@@ -28,6 +28,16 @@ This script will install some basic sofeware and dependencies.LIst below:
 - [x] Steam
 - [x] ibus-rime 
 - [x] Dropbox 
-- [x] Tweak (For gnome desktop environment)
+- [x] Tweak and Chrome Gnome Shell (For gnome desktop environment)
 - [x] Node.js v8 LTS
 
+## Cn-spec.sh
+
+- [x] Config DNS 
+- [x] Add FZUG Repository
+- [x] Shadowsocks
+- [x] Shadowsocks-qt5
+- [x] Proxychains-ng 
+- [x] Genpac
+- [x] Netease Cloud Music (CLI version)
+- [x] Netease Cloud Music (GUI version)
