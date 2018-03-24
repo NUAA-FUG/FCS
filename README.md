@@ -3,7 +3,7 @@
 :us: | English :cn: | [中文](https://github.com/Triple-R/FCS/blob/master/README_zh.md)
 ***
 
-What does **FCS** mean? It means Fedora Common Script  that can help you initialize fedora quickly after you have installed fedora from USB flash drive.As far as now,this repo include `Basic.sh` `Android-Studio.sh` `Mendeley-install-fedora.sh` and `typora-update.sh`.Besides,there is also a script named `Cn-spec.sh` for Chinese users.
+What does **FCS** mean? It means Fedora Common Script  that can help you initialize fedora quickly after you have installed fedora from USB flash drive.As far as now,this repo include `Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-fedora.sh` and `typora-update.sh`.Besides,there is also a script named `Cn-spec.sh` for Chinese users.
 
 ## Basic.sh
 
