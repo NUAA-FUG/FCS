@@ -3,7 +3,7 @@
 :us: | [English](https://github.com/Triple-R/FCS/blob/master/README.md) :cn: | 中文
 ***
 
-Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-fedora.sh` 和`typora-update.sh`。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Cn-spec.sh` 脚本是专门针对中国用户定制化的。
+Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-fedora.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Cn-spec.sh` 脚本是专门针对中国用户定制化的。
 
 ## Basic.sh
 
@@ -41,3 +41,26 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 - [x] Genpac
 - [x] Netease Cloud Music (CLI version)  网易云音乐命令行版
 - [x] Netease Cloud Music (GUI version) 网易云音乐桌面版
+
+## 其他脚本
+
+### Android-Studio.sh
+
+安装 Android Studio，当前安装的版本是 3.0.1.
+
+### Mendeley-desktop.sh
+
+不错的管理和分享研究论文的应用，使用该脚本可以用来安装也可以用来更新。
+
+### typora_update.sh
+
+用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。
+
+### PyCharm-pro.sh 
+
+众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2017.3.4。
+
+## 版权声明
+
+该项目遵循 [MIT 许可协议](https://github.com/Triple-R/FCS/blob/master/LICENSE)
+

@@ -3,7 +3,7 @@
 :us: | English :cn: | [中文](https://github.com/Triple-R/FCS/blob/master/README_zh.md)
 ***
 
-What does **FCS** mean? It means Fedora Common Script  that can help you initialize fedora quickly after you have installed fedora from USB flash drive.As far as now,this repo include `Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-fedora.sh` and `typora-update.sh`.Besides,there is also a script named `Cn-spec.sh` for Chinese users.
+What does **FCS** mean? It means Fedora Common Script  that can help you initialize fedora quickly after you have installed fedora from USB flash drive.Until now,this repo include `Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-fedora.sh` ,etc.Besides,there is also a script named `Cn-spec.sh` for Chinese users.
 
 ## Basic.sh
 
@@ -41,3 +41,30 @@ This script will install some basic sofeware and dependencies.
 - [x] Genpac
 - [x] Netease Cloud Music (CLI version)
 - [x] Netease Cloud Music (GUI version)
+
+
+
+## Other script
+
+### Android-Studio.sh
+
+This script will install Android Studio to your system,and the version of it is 3.0.1.
+
+### Mendeley-desktop.sh
+
+Not only can you use this script to install Mendeley but also update Mendeley in your fedora.
+
+### typora_update.sh
+
+Just as word shows,this script is used to update typora.For more information,go [this page](https://github.com/Triple-R/typora-update) .
+
+### PyCharm-pro.sh 
+
+As we known,PyCharm is a powerful IDE for **Python**,so just use it!
+
+*version 2017.3.4*
+
+## Copyright
+
+This repo is licensed by  [MIT License](https://github.com/Triple-R/FCS/blob/master/LICENSE) .
+
