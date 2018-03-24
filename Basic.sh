@@ -85,6 +85,9 @@ sudo dropbox start -i
 # Install Tweak
 sudo dnf install -y gnome-tweak-tool
 
+# Install Chrome GNOME Shell
+sudo dnf install -y chrome-gnome-shell
+
 # Node.js 8.x LTS
 curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
 sudo dnf -y install nodejs
