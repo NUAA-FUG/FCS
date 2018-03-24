@@ -42,7 +42,49 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.py | 
 # Install uget
 sudo dnf install uget
 
+# Install vlc
+sudo dnf install -y vlc
+
+# Install Xsensors
+sudo dnf install -y xsensors
+
 # Install Google Chrome stable version
 sudo sh -c 'echo -e "[google-chrome]\nname=google-chrome\nbaseurl=http://dl.google.com/linux/chrome/rpm/stable/x86_64 \nenabled=1\ngpgcheck=1\ngpgkey=https://dl.google.com/linux/linux_signing_key.pub
 " > /etc/yum.repos.d/google-chrome.repo'
 sudo dnf check-update
+sudo dnf install -y google-chrome-stable
+
+# Install Telegram Desktop
+sudo dnf copr enable rommon/telegram
+sudo dnf check-update
+sudo dnf install -y telegram-desktop
+
+# Install Mendelay Desktop V 1.17.13
+wget -q --show-progress https://github.com/hmaarrfk/mendeley-rpm/releases/download/1.17.13/mendeleydesktop-1.17.13-1.fc27.x86_64.rpm
+sudo dnf install -y mendeleydesktop-1.17.13-1.fc27.x86_64.rpm
+
+# Install Typora
+git clone https://github.com/RPM-Outpost/typora.git
+cd typora
+./create-package.sh x64
+
+# Install Steam
+sudo dnf config-manager --add-repo=https://negativo17.org/repos/fedora-steam.repo
+sudo dnf check-update
+sudo dnf -y install steam
+
+# Install ibus-rime
+sudo dnf install -y ibus-rime
+ibus restart
+
+# Install Dropbox 
+wget -q --show-progress https://www.dropbox.com/download?dl=packages/fedora/nautilus-dropbox-2015.10.28-1.fedora.x86_64.rpm
+sudo dnf install -y nautilus-dropbox-2015.10.28-1.fedora.x86_64.rpm
+sudo dropbox start -i
+
+# Install Tweak
+sudo dnf install -y gnome-tweak-tool
+
+# Node.js 8.x LTS
+curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
+sudo dnf -y install nodejs
