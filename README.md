@@ -43,8 +43,7 @@ This script will install some basic sofeware and dependencies.
 - [x] Netease Cloud Music (GUI version)
 
 
-
-## Other script
+## Other Script
 
 ### Android-Studio.sh
 
