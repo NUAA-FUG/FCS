@@ -9,8 +9,11 @@ sudo dnf check-update
 # Install basic applications 
 sudo dnf install -y vim git gcc-c++ gdb curl 
 
+# Install FFmpeg
+sudo dnf install -y ffmpeg
+
 # Install NetworkManager plugins
-sudo dnf install NetworkManager-*
+sudo dnf install -y NetworkManager-*
 
 # Some tools to support NTFS and exFAT filesystem
 sudo dnf install -y ntfs-3g fuse fuse-libs
@@ -44,6 +47,10 @@ sudo dnf install uget
 
 # Install vlc
 sudo dnf install -y vlc
+
+# Install MKVToolNix
+sudo rpm -Uhv https://mkvtoolnix.download/fedora/bunkus-org-repo-2-3.noarch.rpm
+sudo dnf install -y mkvtoolnix
 
 # Install Xsensors
 sudo dnf install -y xsensors
