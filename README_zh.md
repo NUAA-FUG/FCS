@@ -10,25 +10,50 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 该脚本将安装基础软件和依赖，例如添加 RPM Fusion 源，安装 VScode，Sublime Text 等软件。
 
 - [x] Add RPM Fusion Repository.
+
 - [x] Install basic applications like git vim etc.
+
 - [x] Install NetworkManager plugins to make you can use DSL.
+
 - [x] Some tools to support NTFS and exFAT filesystem in case you can't write date from USB flash drive.
+
+- [x] FFmpeg
 - [x] Visual Studio Code
+
 - [x] Sublime Text 3
+
 - [x] Zeal
+
 - [x] OBS
+
 - [x] Calibre
+
 - [x] Uget
+
 - [x] VLC
+- [x] MKVToolNix
+
+  > MKVToolNix是一套编辑Matroska媒体文件的开源工具集合，以 GPLv2协议发布。可在Linux、BSD、macOS和Windows平台上运行使用。
+  >
+  > --wiki
 - [x] Xsensors
+
 - [x] Google Chrome (Stable version)
+
 - [x] Telegram
+
 - [x] Mendelay Desktop(Version 1.17.13 )
+
 - [x] Typora
+
 - [x] Steam
+
 - [x] ibus-rime 
+
 - [x] Dropbox 
+
 - [x] Tweak (For gnome desktop environment)
+
 - [x] Node.js v8 LTS
 
 ## Cn-spec.sh

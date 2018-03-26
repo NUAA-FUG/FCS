@@ -13,6 +13,7 @@ This script will install some basic sofeware and dependencies.
 - [x] Install basic applications like git vim etc.
 - [x] Install NetworkManager plugins to make you can use DSL.
 - [x] Some tools to support NTFS and exFAT filesystem in case you can't write date from USB flash drive.
+- [x] FFmpeg
 - [x] Visual Studio Code
 - [x] Sublime Text 3
 - [x] Zeal
@@ -20,10 +21,11 @@ This script will install some basic sofeware and dependencies.
 - [x] Calibre
 - [x] Uget
 - [x] VLC
+- [x] MKVToolNix
 - [x] Xsensors
 - [x] Google Chrome (Stable version)
 - [x] Telegram
-- [x] Mendelay Desktop(Version 1.17.13 )
+- [ ] Mendelay Desktop(Version 1.17.13 )
 - [x] Typora
 - [x] Steam
 - [x] ibus-rime 
