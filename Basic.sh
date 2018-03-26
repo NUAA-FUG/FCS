@@ -50,7 +50,7 @@ sudo dnf install -y vlc
 
 # Install MKVToolNix
 sudo rpm -Uhv https://mkvtoolnix.download/fedora/bunkus-org-repo-2-3.noarch.rpm
-sudo dnf install -y mkvtoolnix
+sudo dnf install -y mkvtoolnix-gui
 
 # Install Xsensors
 sudo dnf install -y xsensors
