@@ -55,8 +55,6 @@ sudo dnf check-update
 sudo dnf install -y google-chrome-stable
 
 # Install Telegram Desktop
-sudo dnf copr enable rommon/telegram
-sudo dnf check-update
 sudo dnf install -y telegram-desktop
 
 # Install Mendelay Desktop V 1.17.13
