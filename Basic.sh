@@ -83,9 +83,9 @@ sudo dnf install -y ibus-rime
 ibus restart
 
 # Install Dropbox 
-wget -q --show-progress https://www.dropbox.com/download?dl=packages/fedora/nautilus-dropbox-2015.10.28-1.fedora.x86_64.rpm
-sudo dnf install -y nautilus-dropbox-2015.10.28-1.fedora.x86_64.rpm
-sudo dropbox start -i
+#wget -q --show-progress https://www.dropbox.com/download?dl=packages/fedora/nautilus-dropbox-2015.10.28-1.fedora.x86_64.rpm
+#sudo dnf install -y nautilus-dropbox-2015.10.28-1.fedora.x86_64.rpm
+#sudo dropbox start -i
 
 # Install Tweak
 sudo dnf install -y gnome-tweak-tool
