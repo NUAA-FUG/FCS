@@ -50,7 +50,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 
 - [x] ibus-rime 
 
-- [x] Dropbox 
+- [ ] Dropbox  
 
 - [x] Tweak (For gnome desktop environment)
 
@@ -71,7 +71,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 
 ### Android-Studio.sh
 
-安装 Android Studio，当前安装的版本是 3.0.1.
+安装 Android Studio，当前安装的版本是 3.1.0。
 
 ### Mendeley-desktop.sh
 
@@ -83,7 +83,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 
 ### PyCharm-pro.sh 
 
-众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2017.3.4。
+众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.1。
 
 ### IDEA-Community.sh && IDEA-Ultimate.sh
 

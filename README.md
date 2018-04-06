@@ -29,7 +29,7 @@ This script will install some basic sofeware and dependencies.
 - [x] Typora
 - [x] Steam
 - [x] ibus-rime 
-- [x] Dropbox 
+- [ ] Dropbox (Temporary disable)
 - [x] Tweak and Chrome Gnome Shell (For gnome desktop environment)
 - [x] Node.js v8 LTS
 
@@ -49,7 +49,7 @@ This script will install some basic sofeware and dependencies.
 
 ### Android-Studio.sh
 
-This script will install Android Studio to your system,and the version of it is 3.0.1.
+This script will install Android Studio to your system,and the version of it is 3.1.0.
 
 ### Mendeley-desktop.sh
 
@@ -63,11 +63,12 @@ Just as word shows,this script is used to update typora.For more information,go 
 
 As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
-*version 2017.3.4*
+*version 2018.1*
 
 ### IDEA-Community.sh && IDEA-Ultimate.sh
 
 IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,other one need to buy.`IDEA-Community.sh` will install the free version,`IDEA-Ultimate.sh` will install the version you should buy.
+
 *version 2017.3.5*
 
 ## Copyright
