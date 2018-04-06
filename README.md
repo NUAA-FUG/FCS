@@ -69,7 +69,7 @@ As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
 IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,other one need to buy.`IDEA-Community.sh` will install the free version,`IDEA-Ultimate.sh` will install the version you should buy.
 
-*version 2017.3.5*
+*version 2018.1*
 
 ## Copyright
 
