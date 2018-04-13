@@ -25,11 +25,10 @@ This script will install some basic sofeware and dependencies.
 - [x] Xsensors
 - [x] Google Chrome (Stable version)
 - [x] Telegram
-- [ ] Mendelay Desktop(Version 1.17.13 )
+- [x] Mendelay Desktop(Version 1.17.13 )
 - [x] Typora
 - [x] Steam
 - [x] ibus-rime 
-- [ ] Dropbox (Temporary disable)
 - [x] Tweak and Chrome Gnome Shell (For gnome desktop environment)
 - [x] Node.js v8 LTS
 
@@ -51,13 +50,18 @@ This script will install some basic sofeware and dependencies.
 
 This script will install Android Studio to your system,and the version of it is 3.1.0.
 
+### Dropbox.sh
+
+It will help you install Dropbox in your Fedora.If you live in China,suggest strongly you should run `Cn-spec.sh` before you run this script.
+
+### IDEA-Community.sh && IDEA-Ultimate.sh
+
+IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,other one need to buy.`IDEA-Community.sh` will install the free version,`IDEA-Ultimate.sh` will install the version you should buy.
+
+*version 2018.1*
 ### Mendeley-desktop.sh
 
-Not only can you use this script to install Mendeley but also update Mendeley in your fedora.
-
-### typora_update.sh
-
-Just as word shows,this script is used to update typora.For more information,go [this page](https://github.com/Triple-R/typora-update) .
+Not only can you use this script to install Mendeley but also update Mendeley in your Fedora.
 
 ### PyCharm-pro.sh
 
@@ -65,11 +69,9 @@ As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
 *version 2018.1*
 
-### IDEA-Community.sh && IDEA-Ultimate.sh
+### typora_update.sh
 
-IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,other one need to buy.`IDEA-Community.sh` will install the free version,`IDEA-Ultimate.sh` will install the version you should buy.
-
-*version 2018.1*
+Just as word shows,this script is used to update typora.For more information,go [this page](https://github.com/Triple-R/typora-update) .
 
 ## Copyright
 
