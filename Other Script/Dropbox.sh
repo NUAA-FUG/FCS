@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo -n "Are you live in China?(y/n, Default:n): ";
+echo -n "Do you live in China?(y/n, Default:n): ";
 read choice
 if [ $choice = "y" -o $choice = "Y" ];
 then
