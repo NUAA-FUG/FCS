@@ -16,7 +16,7 @@ sudo dnf check-update
 sudo pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 
 ## Generate config file for shadowsocks
-echo "Do you need a template shadowsocks config file?(y/n, Default:y): "
+echo -n "Do you need a template shadowsocks config file?(y/n, Default:y): ";
 read isConfigFile
 if [ $isConfigFile = "n" -o $isConfigFile = "N" ];
 then
