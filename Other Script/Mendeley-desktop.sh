@@ -14,9 +14,14 @@ cd /opt/
 
 ls
 
-
-sudo rm -rf mendeleydesktop
-sudo mv mendeleydesktop-1.18-linux-x86_64/ mendeleydesktop/
+# if the folder named mendeleydesktop is already here.Delete it.
+echo -n "Is there a folder named mendeleydesktop in /opt/ directory? [y/n (default is n]";
+read ans
+if [ $ans = "y" -o $ans = "Y" ];
+then
+    sudo rm -rf mendeleydesktop
+else
+    sudo mv mendeleydesktop-1.18-linux-x86_64/ mendeleydesktop/
 
 # Open /bin/ folder
 cd mendeleydesktop/bin/
