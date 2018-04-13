@@ -7,7 +7,7 @@ sudo dnf install -y https://download1.rpmfusion.org/free/fedora/rpmfusion-free-r
 sudo dnf check-update
 
 # Install basic applications 
-sudo dnf install -y vim git gcc-c++ gdb curl 
+sudo dnf install -y vim gcc-c++ gdb curl 
 
 # Install FFmpeg
 sudo dnf install -y ffmpeg
