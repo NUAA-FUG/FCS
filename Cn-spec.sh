@@ -68,6 +68,11 @@ else
 fi
 
 # Install Netease Cloud Music (GUI version)
-sudo dnf copr enable yelanxin/netease-cloud-music -y
-sudo dnf install -y netease-cloud-music
-
+read -p "Do you need the GUI version of Netease Cloud Music[y/n (default n)]: " isgui
+if [ $isgui = "n" -o $isgui = "Y" ];
+then
+    sudo dnf copr enable yelanxin/netease-cloud-music -y
+    sudo dnf install -y netease-cloud-music
+else
+    echo "You choice is no"
+fi
