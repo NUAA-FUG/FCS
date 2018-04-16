@@ -23,4 +23,3 @@ sudo mv Typora-linux-x64/ typora/
 cd ~/Downloads
 
 rm -i Typora-linux-x64.tar.gz
-
