@@ -58,7 +58,14 @@ sudo pip install genpac
 sudo genpac --format=pac --pac-proxy="SOCKS5 127.0.0.1:1080" -o /etc/pac.txt
 
 # Install Netease Cloud Music (CLI version)
-sudo dnf install -y musicbox
+echo -n "Do you need the CLI version of Netease Cloud Music[y/n (default n)]: ";
+read iscli 
+if [ $iscli = "y" -o $iscli = "Y" ];
+then
+    sudo dnf install -y musicbox
+else
+    echo "You choice is no"
+fi
 
 # Install Netease Cloud Music (GUI version)
 sudo dnf copr enable yelanxin/netease-cloud-music -y
