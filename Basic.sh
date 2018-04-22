@@ -52,6 +52,9 @@ sudo dnf install -y vlc
 sudo rpm -Uhv https://mkvtoolnix.download/fedora/bunkus-org-repo-2-3.noarch.rpm
 sudo dnf install -y mkvtoolnix-gui
 
+# Install WoeUSB
+sudo dnf install -y WoeUSB
+
 # Install Xsensors
 sudo dnf install -y xsensors
 
