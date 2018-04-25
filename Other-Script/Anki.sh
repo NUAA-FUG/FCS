@@ -5,7 +5,7 @@ cd ~/Downloads
 # Judge your computer system
 uname -r
 
-echo "What's version of your computer,32 bit or 64 bit?[default is 64]: ";
+echo "What's version of your computer,32 bit or 64 bit?(32/64)[default is 64]: ";
 read bit
 if [ $bit = "32" ];
 then 
