@@ -11,13 +11,14 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 
 - [x] Add RPM Fusion Repository.
 
-- [x] Install basic applications like git vim etc.
+- [x] Install basic applications.
 
-- [x] Install NetworkManager plugins to make you can use DSL.
+- [x] Install NetworkManager plugins to make sure you can use DSL.
 
 - [x] Some tools to support NTFS and exFAT filesystem in case you can't write date from USB flash drive.
 
 - [x] FFmpeg
+
 - [x] Visual Studio Code
 
 - [x] Sublime Text 3
@@ -36,20 +37,21 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
   > MKVToolNix是一套编辑Matroska媒体文件的开源工具集合，以 GPLv2协议发布。可在Linux、BSD、macOS和Windows平台上运行使用。
   >
   > --wiki
+
+- [x] WoeUSB
 - [x] Xsensors
 
 - [x] Google Chrome (Stable version)
 
 - [x] Telegram
 
-- [x] Mendelay Desktop(Version 1.17.13 )
+- [x] Mendelay Desktop(Version 1.18)
 
 - [x] Typora
 
 - [x] Steam
 
 - [x] ibus-rime 
-
 
 - [x] Tweak (For gnome desktop environment)
 
