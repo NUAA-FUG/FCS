@@ -7,7 +7,7 @@ sudo dnf install -y https://download1.rpmfusion.org/free/fedora/rpmfusion-free-r
 sudo dnf check-update
 
 # Install basic applications 
-sudo dnf install -y vim gcc-c++ gdb curl 
+sudo dnf install -y vim curl 
 
 # Install FFmpeg
 sudo dnf install -y ffmpeg
@@ -67,9 +67,9 @@ sudo dnf install -y google-chrome-stable
 # Install Telegram Desktop
 sudo dnf install -y telegram-desktop
 
-# Install Mendelay Desktop V 1.17.13
-wget -q --show-progress https://github.com/hmaarrfk/mendeley-rpm/releases/download/1.17.13/mendeleydesktop-1.17.13-1.fc27.x86_64.rpm
-sudo dnf install -y mendeleydesktop-1.17.13-1.fc27.x86_64.rpm
+# Install Mendelay Desktop V 1.18
+wget -q --show-progress https://github.com/hmaarrfk/mendeley-rpm/releases/download/1.18/mendeleydesktop-1.18-1.fc27.x86_64.rpm
+sudo dnf install -y mendeleydesktop-1.18-1.fc27.x86_64.rpm
 
 # Install Typora
 git clone https://github.com/RPM-Outpost/typora.git
