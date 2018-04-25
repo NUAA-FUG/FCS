@@ -1,4 +1,4 @@
-Fedora 通用脚本
+## Fedora 通用脚本
 
 :us: | [English](https://github.com/Triple-R/FCS/blob/master/README.md) :cn: | 中文
 ***
