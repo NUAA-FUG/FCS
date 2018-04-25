@@ -26,7 +26,7 @@ This script will install some basic sofeware and dependencies.
 - [x] Xsensors
 - [x] Google Chrome (Stable version)
 - [x] Telegram
-- [x] Mendelay Desktop(Version 1.17.13 )
+- [x] Mendelay Desktop(Version 1.18 )
 - [x] Typora
 - [x] Steam
 - [x] ibus-rime 
@@ -45,11 +45,17 @@ This script will install some basic sofeware and dependencies.
 - [x] Netease Cloud Music (GUI version)
 
 
-## Other Script
+## Other-Script
 
 ### Android-Studio.sh
 
 This script will install Android Studio to your system,and the version of it is 3.1.0.
+
+### Anki.sh
+
+> Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.    --[Official Website](https://apps.ankiweb.net/)
+
+Current Version 2.0.50
 
 ### Dropbox.sh
 
@@ -59,7 +65,7 @@ It will help you install Dropbox in your Fedora.If you live in China,suggest str
 
 IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,other one need to buy.`IDEA-Community.sh` will install the free version,`IDEA-Ultimate.sh` will install the version you should buy.
 
-*version 2018.1*
+*version 2018.1.2*
 ### Mendeley-desktop.sh
 
 Not only can you use this script to install Mendeley but also update Mendeley in your Fedora.
