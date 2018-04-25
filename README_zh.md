@@ -80,7 +80,7 @@ Dropbox 是一款十分优秀的云同步应用，你可以通过此脚本来进
 
 ### IDEA-Community.sh && IDEA-Ultimate.sh
 
-IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。如果你是学生用户或者已经购买了 IDEA，你可以使用 `IDEA-Ultimate.sh` 来安装。否则，请使用 `IDEA-Community.sh` 来安装社区版。当前软件版本 V 2018.1。
+IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。如果你是学生用户或者已经购买了 IDEA，你可以使用 `IDEA-Ultimate.sh` 来安装。否则，请使用 `IDEA-Community.sh` 来安装社区版。当前软件版本 V 2018.1.2。
 
 ### Mendeley-desktop.sh
 
