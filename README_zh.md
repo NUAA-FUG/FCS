@@ -9,48 +9,28 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 
 该脚本将安装基础软件和依赖，例如添加 RPM Fusion 源，安装 VScode，Sublime Text 等软件。
 
-- [x] Add RPM Fusion Repository.
-
-- [x] Install basic applications.
-
-- [x] Install NetworkManager plugins to make sure you can use DSL.
-
-- [x] Some tools to support NTFS and exFAT filesystem in case you can't write date from USB flash drive.
-
-- [x] FFmpeg
-
-- [x] Visual Studio Code
-
-- [x] Sublime Text 3
-
-- [x] Zeal
-
-- [x] OBS
-
-- [x] Calibre
-
-- [x] Uget
-
-- [x] VLC
-- [x] MKVToolNix
-
-- [x] WoeUSB
-- [x] Xsensors
-
-- [x] Google Chrome (Stable version)
-
-- [x] Telegram
-
-- [x] Mendelay Desktop(Version 1.18)
-
-- [x] Typora
-
-- [x] Steam
-
-- [x] ibus-rime 
-
+- [x] Add RPM Fusion Repository. 添加 RPM Fusion 源。
+- [x] Install basic applications. 安装一些基础应用。
+- [x] Install NetworkManager plugins to make sure you can use DSL. 安装网络管理套件确保可以使用 DSL 拨号上网。
+- [x] Some tools to support NTFS and exFAT filesystem in case you can't read and write date from USB flash drive. 一些支持 NTFS 和 exFAT 文件格式的工具，避免无法从U盘读取数据。
+- [x] FFmpeg 可以运行音频和视频多种格式录影、转换、流功能等功能的自由软件。
+- [x] Visual Studio Code 基于 electron 的编辑器。
+- [x] Sublime Text 3 强大的编辑器
+- [x] Zeal 离线文档查阅管理软件
+- [x] OBS 录屏工具
+- [x] Calibre 电子书管理软件
+- [x] Uget 下载软件
+- [x] VLC 不错的播放器
+- [x] MKVToolNix 可对 MKV 格式的视频进行操作的工具
+- [x] WoeUSB Linux 下图形化制作U盘启动盘的工具
+- [x] Xsensors 查看 CPU 温度的小工具
+- [x] Google Chrome (Stable version) Chrome 浏览器
+- [x] Telegram 好用的通讯工具
+- [x] Mendelay Desktop(Version 1.18) 管理分享研究论文的应用程序
+- [x] Typora 好用的 Markdown 编辑器
+- [x] Steam 全球学习交流平台
+- [x] ibus-rime rime 输入法
 - [x] Tweak and Chrome Gnome Shell (For gnome desktop environment)
-
 - [x] Node.js v8 LTS
 
 ## Cn-spec.sh
