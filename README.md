@@ -11,8 +11,8 @@ This script will install some basic sofeware and dependencies.
 
 - [x] Add RPM Fusion Repository.
 - [x] Install basic applications.
-- [x] Install NetworkManager plugins to make you can use DSL.
-- [x] Some tools to support NTFS and exFAT filesystem in case you can't write date from USB flash drive.
+- [x] Install NetworkManager plugins to make sure you can use DSL.
+- [x] Some tools to support NTFS and exFAT filesystem in case you can't read and write data from USB flash drive.
 - [x] FFmpeg
 - [x] Visual Studio Code
 - [x] Sublime Text 3
