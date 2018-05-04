@@ -1,16 +1,15 @@
-## Fedora 通用脚本
+# Fedora 通用脚本
 
 :us: | [English](https://github.com/Triple-R/FCS/blob/master/README.md) :cn: | 中文
 ***
 
-Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-fedora.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Cn-spec.sh` 脚本是专门针对中国用户定制化的。
+Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Script2CN.sh` 脚本是专门针对中国用户定制化的。
 
 ## Basic.sh
 
 该脚本将安装基础软件和依赖，例如添加 RPM Fusion 源，安装 VScode，Sublime Text 等软件。
 
 - [x] Add RPM Fusion Repository. 添加 RPM Fusion 源。
-- [x] Install basic applications. 安装一些基础应用。
 - [x] Install NetworkManager plugins to make sure you can use DSL. 安装网络管理套件确保可以使用 DSL 拨号上网。
 - [x] Some tools to support NTFS and exFAT filesystem in case you can't read and write date from USB flash drive. 一些支持 NTFS 和 exFAT 文件格式的工具，避免无法从U盘读取数据。
 - [x] FFmpeg 可以运行音频和视频多种格式录影、转换、流功能等功能的自由软件。
@@ -26,14 +25,15 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 - [x] Xsensors 查看 CPU 温度的小工具
 - [x] Google Chrome (Stable version) Chrome 浏览器
 - [x] Telegram 好用的通讯工具
-- [x] Mendelay Desktop(Version 1.18) 管理分享研究论文的应用程序
+- [ ] Mendelay Desktop(Version 1.18) 管理分享研究论文的应用程序
 - [x] Typora 好用的 Markdown 编辑器
 - [x] Steam 全球学习交流平台
 - [x] ibus-rime rime 输入法
 - [x] Tweak and Chrome Gnome Shell (For gnome desktop environment)
 - [x] Node.js v8 LTS
+- [x] Golang
 
-## Cn-spec.sh
+## Script2CN.sh
 
 - [x] Config DNS  配置 DNS
 - [x] Add FZUG Repository 添加 FZUG 源
@@ -41,8 +41,8 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-
 - [x] Shadowsocks-qt5 基于 Qt5 的客户端
 - [x] Proxychains-ng 
 - [x] Genpac 
-- [x] Netease Cloud Music (CLI version)  网易云音乐命令行版
-- [x] Netease Cloud Music (GUI version) 网易云音乐桌面版
+- [ ] Netease Cloud Music (CLI version)  网易云音乐命令行版
+- [ ] Netease Cloud Music (GUI version) 网易云音乐桌面版
 
 ## 其他脚本
 

@@ -3,14 +3,15 @@
 :us: | English :cn: | [中文](https://github.com/Triple-R/FCS/blob/master/README_zh.md)
 ***
 
-What does **FCS** mean? It means Fedora Common Script  that can help you initialize fedora quickly after you have installed fedora from USB flash drive.Until now,this repo include `Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-fedora.sh` ,etc.Besides,there is also a script named `Cn-spec.sh` for Chinese users.
+What does **FCS** mean? It means Fedora Common Script  that can help you initialize fedora quickly after you have installed fedora from USB flash drive.Until now,this repo include `Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` ,etc.Besides,there is also a script named `Script2CN.sh` for Chinese users.
+
+***PS:The System Environment Is Fedora 28 Based X86_64***
 
 ## Basic.sh
 
 This script will install some basic sofeware and dependencies.
 
 - [x] Add RPM Fusion Repository.
-- [x] Install basic applications.
 - [x] Install NetworkManager plugins to make sure you can use DSL.
 - [x] Some tools to support NTFS and exFAT filesystem in case you can't read and write data from USB flash drive.
 - [x] FFmpeg
@@ -26,14 +27,15 @@ This script will install some basic sofeware and dependencies.
 - [x] Xsensors
 - [x] Google Chrome (Stable version)
 - [x] Telegram
-- [x] Mendelay Desktop(Version 1.18 )
+- [ ] Mendelay Desktop(Version 1.18 )
 - [x] Typora
 - [x] Steam
 - [x] ibus-rime 
 - [x] Tweak and Chrome Gnome Shell (For gnome desktop environment)
 - [x] Node.js v8 LTS
+- [x] Golang
 
-## Cn-spec.sh
+## Script2CN.sh
 
 - [x] Config DNS 
 - [x] Add FZUG Repository
@@ -41,8 +43,8 @@ This script will install some basic sofeware and dependencies.
 - [x] Shadowsocks-qt5
 - [x] Proxychains-ng 
 - [x] Genpac
-- [x] Netease Cloud Music (CLI version)
-- [x] Netease Cloud Music (GUI version)
+- [ ] Netease Cloud Music (CLI version)
+- [ ] Netease Cloud Music (GUI version)
 
 
 ## Other-Script
