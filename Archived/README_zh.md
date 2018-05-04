@@ -3,7 +3,7 @@
 :us: | [English](https://github.com/Triple-R/FCS/blob/master/README.md) :cn: | 中文
 ***
 
-Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-fedora.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Cn-spec.sh` 脚本是专门针对中国用户定制化的。
+Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-install-fedora.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Script2CN.sh` 脚本是专门针对中国用户定制化的。
 
 ## Basic.sh
 
