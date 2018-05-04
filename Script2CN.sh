@@ -9,8 +9,8 @@ sudo systemctl restart NetworkManager
 sleep 60
 
 # Add FZUG Repository
-sudo dnf config-manager --add-repo=https://repo.fdzh.org/FZUG/FZUG.repo
-sudo dnf check-update
+# sudo dnf config-manager --add-repo=https://repo.fdzh.org/FZUG/FZUG.repo
+# sudo dnf check-update
 
 # Install shadowsocks
 sudo pip install git+https://github.com/shadowsocks/shadowsocks.git@master
@@ -58,21 +58,21 @@ sudo pip install genpac
 sudo genpac --format=pac --pac-proxy="SOCKS5 127.0.0.1:1080" -o /etc/pac.txt
 
 # Install Netease Cloud Music (CLI version)
-echo -n "Do you need the CLI version of Netease Cloud Music[y/n (default n)]: ";
-read iscli 
-if [ $iscli = "y" -o $iscli = "Y" ];
-then
-    sudo dnf install -y musicbox
-else
-    echo "You choice is no"
-fi
+# echo -n "Do you need the CLI version of Netease Cloud Music[y/n (default n)]: ";
+# read iscli 
+# if [ $iscli = "y" -o $iscli = "Y" ];
+# then
+#     sudo dnf install -y musicbox
+# else
+#     echo "You choice is no"
+# fi
 
-# Install Netease Cloud Music (GUI version)
-read -p "Do you need the GUI version of Netease Cloud Music[y/n (default n)]: " isgui
-if [ $isgui = "y" -o $isgui = "Y" ];
-then
-    sudo dnf copr enable yelanxin/netease-cloud-music -y
-    sudo dnf install -y netease-cloud-music
-else
-    echo "You choice is no"
-fi
+# # Install Netease Cloud Music (GUI version)
+# read -p "Do you need the GUI version of Netease Cloud Music[y/n (default n)]: " isgui
+# if [ $isgui = "y" -o $isgui = "Y" ];
+# then
+#     sudo dnf copr enable yelanxin/netease-cloud-music -y
+#     sudo dnf install -y netease-cloud-music
+# else
+#     echo "You choice is no"
+# fi
