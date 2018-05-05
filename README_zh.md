@@ -5,7 +5,7 @@
 
 ## 前言
 
-Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Script2CN.sh` 脚本是专门针对中国用户定制化的。5 月 1 号，Fedora 28 正式发布，所有的脚本开始升级到 Fedora 28，之前的脚本位于 ***Archived*** 文件夹内，如果你还在使用 Fedora 27，你可以在该文件夹内找到你需要的脚本。
+Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Script2CN.sh` 脚本是专门针对中国用户定制化的。5 月 1 号，Fedora 28 正式发布，所有的脚本开始升级到 Fedora 28，之前的脚本位于 ***Archived-F27*** 文件夹内，如果你还在使用 Fedora 27，你可以在该文件夹内找到你需要的脚本。
 
 ## 脚本简介
 

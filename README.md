@@ -5,7 +5,7 @@
 
 ## Foreword
 
-What does **FCS** mean? It means Fedora Common Script  that can help you initialize fedora quickly after you have installed fedora from USB flash drive.Until now,this repo include `Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` ,etc.Besides,there is also a script named `Script2CN.sh` for Chinese users.In 01 May,Fedora 28 has been released,so these scripts are upgrade to adapt Fedora 28.The former script  is in ***Archived*** folder,if you still use Fedora 27,just go **Archived** folder and choose script that you want to use.
+What does **FCS** mean? It means Fedora Common Script  that can help you initialize fedora quickly after you have installed fedora from USB flash drive.Until now,this repo include `Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` ,etc.Besides,there is also a script named `Script2CN.sh` for Chinese users.In 01 May,Fedora 28 has been released,so these scripts are upgrade to adapt Fedora 28.The former script  is in ***Archived-F27*** folder,if you still use Fedora 27,just go **Archived-F27** folder and choose script that you want to use.
 
 ## Scripts
 
