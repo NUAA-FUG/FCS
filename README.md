@@ -28,7 +28,7 @@ This script will install some basic sofeware and dependencies.
 - [x] WoeUSB
 - [x] Xsensors
 - [x] Google Chrome (Stable version)
-- [x] Telegram前言
+- [x] Telegram
 - [ ] Mendelay Desktop(Version 1.18 )
 - [x] Typora
 - [x] Steam
