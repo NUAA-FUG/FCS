@@ -78,7 +78,7 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 #### PyCharm-pro.sh
 
-众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.1。
+众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.1.2。
 
 #### typora_update.sh
 

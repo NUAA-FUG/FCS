@@ -86,7 +86,7 @@ Not only can you use this script to install Mendeley but also update Mendeley in
 
 As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
-*Current  Version 2018.1*
+*Current  Version 2018.1.2*
 
 #### typora_update.sh
 
