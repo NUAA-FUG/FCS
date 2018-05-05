@@ -3,9 +3,13 @@
 :us: | [English](https://github.com/Triple-R/FCS/blob/master/README.md) :cn: | 中文
 ***
 
-Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Script2CN.sh` 脚本是专门针对中国用户定制化的。
+## 前言
 
-## Basic.sh
+Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Script2CN.sh` 脚本是专门针对中国用户定制化的。5 月 1 号，Fedora 28 正式发布，所有的脚本开始升级到 Fedora 28，之前的脚本位于 ***Archived*** 文件夹内，如果你还在使用 Fedora 27，你可以在该文件夹内找到你需要的脚本。
+
+## 脚本简介
+
+### Basic.sh
 
 该脚本将安装基础软件和依赖，例如添加 RPM Fusion 源，安装 VScode，Sublime Text 等软件。
 
@@ -33,7 +37,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 - [x] Node.js v8 LTS
 - [x] Golang
 
-## Script2CN.sh
+### Script2CN.sh
 
 - [x] Config DNS  配置 DNS
 - [x] Add FZUG Repository 添加 FZUG 源
@@ -44,42 +48,41 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 - [ ] Netease Cloud Music (CLI version)  网易云音乐命令行版
 - [ ] Netease Cloud Music (GUI version) 网易云音乐桌面版
 
-## 其他脚本
+### 其他脚本
 
-### Android-Studio.sh
+####  Android-Studio.sh
 
 安装 Android Studio，当前版本是 3.1.0。
 
-### Anki.sh
+#### Anki.sh
 
 > Anki是一个基于间隔重复（Spaced Repetition）的字卡软件，Anki对SuperMemo的SM2算法予以改进，使其可以根据记忆卡的优先级、紧急程度进行优化调整。记忆卡采用HTML编写，支持插入图片、音频以及LaTeX公式。--维基百科
 
 当前稳定版为 2.0.50。
 
-### Dropbox.sh
+#### Dropbox.sh
 
 Dropbox 是一款十分优秀的云同步应用，你可以通过此脚本来进行安装。建议在使用此脚本前，先使用 `Cn-spec.sh` 脚本。
 
-### IDEA-Community.sh && IDEA-Ultimate.sh
+#### IDEA-Community.sh && IDEA-Ultimate.sh
 
 IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。如果你是学生用户或者已经购买了 IDEA，你可以使用 `IDEA-Ultimate.sh` 来安装。否则，请使用 `IDEA-Community.sh` 来安装社区版。当前软件版本 V2018.1.2。
 
-### Java.sh
+#### Java.sh
 
 安装并设置 Oracle Java 开发环境。当前版本为 10.0.1。
 
-### Mendeley-desktop.sh
+#### Mendeley-desktop.sh
 
 不错的管理和分享研究论文的应用，使用该脚本可以用来安装也可以用来更新。当前版本：1.18。
 
-### PyCharm-pro.sh 
+#### PyCharm-pro.sh
 
 众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.1。
 
-### typora_update.sh
+#### typora_update.sh
 
-用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.48(beta)
-
+用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.50(beta)
 
 ## 版权声明
 
