@@ -1,6 +1,6 @@
 # Fedora Common Script
 
-:us: | English :cn: | [中文](https://github.com/Triple-R/FCS/blob/master/README_zh.md)
+:us: | English :cn: | [中文](https://github.com/Triple-R/FCS/blob/master/Archived/README_zh.md)
 ***
 
 
