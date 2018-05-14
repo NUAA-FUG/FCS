@@ -26,6 +26,7 @@ This script will install some basic sofeware and dependencies.
 - [x] VLC
 - [x] MKVToolNix
 - [x] WoeUSB
+- [x] Etcher
 - [x] Xsensors
 - [x] Google Chrome (Stable version)
 - [x] Telegram

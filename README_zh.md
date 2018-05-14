@@ -26,6 +26,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 - [x] VLC 不错的播放器
 - [x] MKVToolNix 可对 MKV 格式的视频进行操作的工具
 - [x] WoeUSB Linux 下图形化制作U盘启动盘的工具
+- [x] Etcher 基于 electron 的将系统镜像文件快速烧录进 USB 设备的应用
 - [x] Xsensors 查看 CPU 温度的小工具
 - [x] Google Chrome (Stable version) Chrome 浏览器
 - [x] Telegram 好用的通讯工具
@@ -62,7 +63,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 
 #### Dropbox.sh
 
-Dropbox 是一款十分优秀的云同步应用，你可以通过此脚本来进行安装。建议在使用此脚本前，先使用 `Cn-spec.sh` 脚本。
+Dropbox 是一款十分优秀的云同步应用，你可以通过此脚本来进行安装。建议在使用此脚本前，先使用 `Script2CN.sh` 脚本。
 
 #### IDEA-Community.sh && IDEA-Ultimate.sh
 
