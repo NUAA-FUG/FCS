@@ -55,6 +55,13 @@ sudo dnf install -y mkvtoolnix-gui
 # Install WoeUSB
 sudo dnf install -y WoeUSB
 
+# Install Etcher
+## Add Etcher rpm repository
+sudo wget https://bintray.com/resin-io/redhat/rpm -O /etc/yum.repos.d/bintray-resin-io-redhat.repo
+## Update and install 
+sudo dnf check-update
+sudo dnf install -y etcher-electron
+
 # Install Xsensors
 sudo dnf install -y xsensors
 
