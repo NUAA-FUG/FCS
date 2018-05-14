@@ -53,7 +53,7 @@ This script will install some basic sofeware and dependencies.
 
 #### Android-Studio.sh
 
-This script will install Android Studio to your system,and the version of it is 3.1.0.
+This script will install Android Studio to your system,and the version of it is 3.1.2.
 
 #### Anki.sh
 

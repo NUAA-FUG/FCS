@@ -53,7 +53,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 
 ####  Android-Studio.sh
 
-安装 Android Studio，当前版本是 3.1.0。
+安装 Android Studio，当前版本是 3.1.2。
 
 #### Anki.sh
 
