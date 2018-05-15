@@ -43,7 +43,7 @@ sudo dnf install obs-studio
 sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.py | sudo python -c "import sys; main=lambda:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main()"
 
 # Install uget
-sudo dnf install uget
+sudo dnf install uget -y
 
 # Install vlc
 sudo dnf install -y vlc
