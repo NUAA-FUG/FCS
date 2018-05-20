@@ -17,7 +17,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 - [x] Install NetworkManager plugins to make sure you can use DSL. 安装网络管理套件确保可以使用 DSL 拨号上网。
 - [x] Some tools to support NTFS and exFAT filesystem in case you can't read and write date from USB flash drive. 一些支持 NTFS 和 exFAT 文件格式的工具，避免无法从U盘读取数据。
 - [x] FFmpeg 可以运行音频和视频多种格式录影、转换、流功能等功能的自由软件。
-- [x] Visual Studio Code 基于 electron 的编辑器。
+- [x] Visual Studio Code 编辑器
 - [x] Sublime Text 3 强大的编辑器
 - [x] Zeal 离线文档查阅管理软件
 - [x] OBS 录屏工具
@@ -67,7 +67,7 @@ Dropbox 是一款十分优秀的云同步应用，你可以通过此脚本来进
 
 #### IDEA-Community.sh && IDEA-Ultimate.sh
 
-IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。如果你是学生用户或者已经购买了 IDEA，你可以使用 `IDEA-Ultimate.sh` 来安装。否则，请使用 `IDEA-Community.sh` 来安装社区版。当前软件版本 V2018.1.2。
+IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。如果你是学生用户或者已经购买了 IDEA，你可以使用 `IDEA-Ultimate.sh` 来安装。否则，请使用 `IDEA-Community.sh` 来安装社区版。当前软件版本 V2018.1.3。
 
 #### Java.sh
 
@@ -79,11 +79,11 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 #### PyCharm-pro.sh
 
-众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.1.2。
+众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.1.3。
 
 #### typora_update.sh
 
-用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.50(beta)
+用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.51(beta)
 
 ## 版权声明
 
