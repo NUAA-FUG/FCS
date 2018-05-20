@@ -2,14 +2,14 @@
 
 cd ~/Downloads
 
-wget -q --show-progress https://download.jetbrains.com/idea/ideaIC-2018.1.2.tar.gz
+wget -q --show-progress https://download.jetbrains.com/idea/ideaIC-2018.1.3.tar.gz
 
 # Unzip it to /opt/ directory
-sudo tar -zxvf ideaIC-2018.1.2.tar.gz -C /opt/
+sudo tar -zxvf ideaIC-2018.1.3.tar.gz -C /opt/ --transform s/idea-IC-181.4892.42/ideaIC/
 
 # Delete tar package
-sudo rm ideaIC-2018.1.2.tar.gz
+sudo rm ideaIC-2018.1.3.tar.gz
 
 # Install
-cd /opt/idea-IC-181.4668.68/bin/
+cd /opt/ideaIC/bin/
 ./idea.sh 
