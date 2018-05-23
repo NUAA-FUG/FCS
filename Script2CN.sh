@@ -5,6 +5,7 @@
 # Config DNS
 sudo sed -i '$i nameserver 8.8.8.8' /etc/resolv.conf
 sudo sed -i '$i nameserver 9.9.9.9' /etc/resolv.conf
+sudo sed -i '$i nameserver 1.1.1.1' /etc/resolv.conf
 sudo systemctl restart NetworkManager
 sleep 60
 
@@ -39,7 +40,7 @@ fi
 ## Install shadowsocks-qt5
 sudo dnf copr enable librehat/shadowsocks
 sudo dnf update
-sudo dnf install shadowsocks-qt5
+sudo dnf install shadowsocks-qt5 -y
 
 ## Install libsodium
 sudo dnf install -y libsodium
