@@ -5,7 +5,7 @@
 
 ## 前言
 
-Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Script2CN.sh` 脚本是专门针对中国用户定制化的。5 月 1 号，Fedora 28 正式发布，所有的脚本开始升级到 Fedora 28，之前的脚本位于 ***Archived-F27*** 文件夹内，如果你还在使用 Fedora 27，你可以在该文件夹内找到你需要的脚本。
+Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Script2CN.sh` 脚本是专门针对中国用户定制化的。5 月 1 号，Fedora 28 正式发布，所有的脚本开始升级到 Fedora 28，之前的脚本位于 ***Archived-F27*** 文件夹内并且不再更新，如果你还在使用 Fedora 27，你可以在该文件夹内找到你需要的脚本。
 
 ## 脚本简介
 
@@ -15,7 +15,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 
 - [x] Add RPM Fusion Repository. 添加 RPM Fusion 源。
 - [x] Install NetworkManager plugins to make sure you can use DSL. 安装网络管理套件确保可以使用 DSL 拨号上网。
-- [x] Some tools to support NTFS and exFAT filesystem in case you can't read and write date from USB flash drive. 一些支持 NTFS 和 exFAT 文件格式的工具，避免无法从U盘读取数据。
+- [x] Some tools to support NTFS and exFAT filesystem in case you can't read and write data from USB flash drive. 一些支持 NTFS 和 exFAT 文件格式的工具，避免无法从U盘读取数据。
 - [x] FFmpeg 可以运行音频和视频多种格式录影、转换、流功能等功能的自由软件。
 - [x] Visual Studio Code 编辑器
 - [x] Sublime Text 3 强大的编辑器
