@@ -67,7 +67,7 @@ Dropbox 是一款十分优秀的云同步应用，你可以通过此脚本来进
 
 #### IDEA-Community.sh && IDEA-Ultimate.sh
 
-IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。如果你是学生用户或者已经购买了 IDEA，你可以使用 `IDEA-Ultimate.sh` 来安装。否则，请使用 `IDEA-Community.sh` 来安装社区版。当前软件版本 V2018.1.3。
+IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。如果你是学生用户或者已经购买了 IDEA，你可以使用 `IDEA-Ultimate.sh` 来安装。否则，请使用 `IDEA-Community.sh` 来安装社区版。当前软件版本 V2018.1.4。
 
 #### Java.sh
 
@@ -79,11 +79,15 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 #### PyCharm-pro.sh
 
-众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.1.3。
+众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.1.4。
 
 #### typora_update.sh
 
-用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.51(beta)
+用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.53(beta)
+
+#### WebStorm.sh
+
+由 JetBrains 开发的适用于前端的强大的 IDE。当前版本：2018.1.4
 
 ## 版权声明
 

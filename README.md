@@ -69,7 +69,7 @@ It will help you install Dropbox in your Fedora.If you live in China,suggest str
 
 IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,other one need to buy.`IDEA-Community.sh` will install the free version,`IDEA-Ultimate.sh` will install the version you should buy.
 
-*Current Version 2018.1.3*
+*Current Version 2018.1.4*
 
 #### Java.sh
 
@@ -87,13 +87,21 @@ Not only can you use this script to install Mendeley but also update Mendeley in
 
 As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
-*Current  Version 2018.1.3*
+*Current  Version 2018.1.4*
 
 #### typora_update.sh
 
 Just as word shows,this script is used to update typora.For more information,go [this page](https://github.com/Triple-R/typora-update) .
 
-*Current Version 0.9.51(beta)*
+*Current Version 0.9.53(beta)*
+
+#### WebStorm.sh
+
+>The smartest JavaScript IDE
+>Powerful IDE for modern JavaScript development
+
+*Current Version 2018.1.4*
+
 
 ## Copyright
 
