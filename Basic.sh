@@ -101,6 +101,9 @@ sudo dnf install -y chrome-gnome-shell
 # Node.js 8.x LTS
 curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
 sudo dnf -y install nodejs
+## Install yarn
+curl --silent --location https://dl.yarnpkg.com/rpm/yarn.repo | sudo tee /etc/yum.repos.d/yarn.repo
+sudo dnf install yarn -y
 
 # Go environment
 sudo dnf install golang -y
