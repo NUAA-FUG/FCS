@@ -107,3 +107,6 @@ sudo dnf install yarn -y
 
 # Go environment
 sudo dnf install golang -y
+
+# RUST environment
+sudo dnf install -y rust cargo
