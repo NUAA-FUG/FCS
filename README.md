@@ -25,6 +25,7 @@ This script will install some basic sofeware and dependencies.
 - [x] Uget
 - [x] VLC
 - [x] MKVToolNix
+- [x] Fedora Media Writer
 - [x] WoeUSB
 - [x] Etcher
 - [x] Xsensors

@@ -26,6 +26,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 - [x] VLC 不错的播放器
 - [x] MKVToolNix 可对 MKV 格式的视频进行操作的工具
 - [x] WoeUSB Linux 下图形化制作U盘启动盘的工具
+- [x] Fedora Media Writer
 - [x] Etcher 基于 electron 的将系统镜像文件快速烧录进 USB 设备的应用
 - [x] Xsensors 查看 CPU 温度的小工具
 - [x] Google Chrome (Stable version) Chrome 浏览器

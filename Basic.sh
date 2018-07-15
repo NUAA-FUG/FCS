@@ -36,8 +36,8 @@ sudo dnf install -y sublime-text
 sudo dnf install -y zeal
 
 # Install OBS
-sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
-sudo dnf install obs-studio
+sudo dnf install -y https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+sudo dnf install -y obs-studio
 
 # Install Calibre
 sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.py | sudo python -c "import sys; main=lambda:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main()"
@@ -51,6 +51,9 @@ sudo dnf install -y vlc
 # Install MKVToolNix
 # sudo rpm -Uhv https://mkvtoolnix.download/fedora/bunkus-org-repo-2-3.noarch.rpm
 sudo dnf install -y mkvtoolnix-gui
+
+# Install Fedora Media Writer
+sudo dnf install mediawriter -y
 
 # Install WoeUSB
 sudo dnf install -y WoeUSB
