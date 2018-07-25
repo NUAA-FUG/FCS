@@ -88,7 +88,7 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 #### WebStorm.sh
 
-由 JetBrains 开发的适用于前端的强大的 IDE。当前版本：2018.1.4
+由 JetBrains 开发的适用于前端的强大的 IDE。当前版本：2018.2
 
 ## 版权声明
 

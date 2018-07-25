@@ -101,7 +101,7 @@ Just as word shows,this script is used to update typora.For more information,go 
 >The smartest JavaScript IDE
 >Powerful IDE for modern JavaScript development
 
-*Current Version 2018.1.4*
+*Current Version 2018.2*
 
 
 ## Copyright
