@@ -56,11 +56,6 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 
 安装 Android Studio，当前版本是 3.1.2。
 
-#### Anki.sh
-
-> Anki是一个基于间隔重复（Spaced Repetition）的字卡软件，Anki对SuperMemo的SM2算法予以改进，使其可以根据记忆卡的优先级、紧急程度进行优化调整。记忆卡采用HTML编写，支持插入图片、音频以及LaTeX公式。--维基百科
-
-当前稳定版为 2.0.50。
 
 #### Dropbox.sh
 

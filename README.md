@@ -56,11 +56,6 @@ This script will install some basic sofeware and dependencies.
 
 This script will install Android Studio to your system,and the version of it is 3.1.2.
 
-#### Anki.sh
-
-> Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.    --[Official Website](https://apps.ankiweb.net/)
-
-*Current Version 2.0.50*
 
 #### Dropbox.sh
 
