@@ -1,6 +1,6 @@
 # Fedora Common Script
 
-:us: | English :cn: | [中文](https://github.com/Triple-R/FCS/blob/master/README_zh.md)
+:us: | English :cn: | [中文](https://github.com/NUAA-FUG/FCS/blob/master/README_zh.md)
 ***
 
 ## Foreword
@@ -84,11 +84,11 @@ Not only can you use this script to install Mendeley but also update Mendeley in
 
 *Current Version 1.18*
 
-#### PyCharm-pro.sh
+#### PyCharm.sh
 
 As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
-*Current  Version 2018.1.4*
+*Current  Version 2018.2*
 
 #### typora_update.sh
 
@@ -106,5 +106,5 @@ Just as word shows,this script is used to update typora.For more information,go 
 
 ## Copyright
 
-This repo is licensed by  [MIT License](https://github.com/Triple-R/FCS/blob/master/LICENSE) .
+This repo is licensed by  [MIT License](https://github.com/NUAA-FUG/FCS/blob/master/LICENSE) .
 

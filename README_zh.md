@@ -1,6 +1,6 @@
 # Fedora 通用脚本
 
-:us: | [English](https://github.com/Triple-R/FCS/blob/master/README.md) :cn: | 中文
+:us: | [English](https://github.com/NUAA-FUG/FCS/blob/master/README.md) :cn: | 中文
 ***
 
 ## 前言
@@ -78,9 +78,9 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 不错的管理和分享研究论文的应用，使用该脚本可以用来安装也可以用来更新。当前版本：1.18。
 
-#### PyCharm-pro.sh
+#### PyCharm.sh
 
-众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.1.4。
+众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.2。
 
 #### typora_update.sh
 
@@ -92,5 +92,5 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 ## 版权声明
 
-该项目遵循 [MIT 许可协议](https://github.com/Triple-R/FCS/blob/master/LICENSE)
+该项目遵循 [MIT 许可协议](https://github.com/NUAA-FUG/FCS/blob/master/LICENSE)
 
