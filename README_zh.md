@@ -22,6 +22,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 - [x] Zeal 离线文档查阅管理软件
 - [x] OBS 录屏工具
 - [x] Calibre 电子书管理软件
+- [x] Anki 
 - [x] Uget 下载软件
 - [x] VLC 不错的播放器
 - [x] MKVToolNix 可对 MKV 格式的视频进行操作的工具

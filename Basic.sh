@@ -45,6 +45,9 @@ sudo dnf install -y obs-studio
 # Install Calibre
 sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.py | sudo python -c "import sys; main=lambda:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main()"
 
+# Install Anki
+sudo dnf install -y anki 
+
 # Install uget
 sudo dnf install uget -y
 

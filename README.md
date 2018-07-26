@@ -22,6 +22,7 @@ This script will install some basic sofeware and dependencies.
 - [x] Zeal
 - [x] OBS
 - [x] Calibre
+- [x] Anki 
 - [x] Uget
 - [x] VLC
 - [x] MKVToolNix
