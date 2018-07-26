@@ -66,11 +66,11 @@ This script will install Android Studio to your system,and the version of it is 
 
 It will help you install Dropbox in your Fedora.If you live in China,suggest strongly you should run `Script2CN.sh` before you run this script.
 
-#### IDEA-Community.sh && IDEA-Ultimate.sh
+#### IntelliJ-IDEA.sh
 
-IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,other one need to buy.`IDEA-Community.sh` will install the free version,`IDEA-Ultimate.sh` will install the version you should buy.
+IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,the other one need to buy.
 
-*Current Version 2018.1.4*
+*Current Version 2018.2*
 
 #### Java.sh
 
