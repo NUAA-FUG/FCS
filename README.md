@@ -78,7 +78,7 @@ Set Oracle Java environment to your system.
 
 Not only can you use this script to install Mendeley but also update Mendeley in your Fedora.
 
-*Current Version 1.18*
+*Current Version 1.19.1*
 
 #### PyCharm.sh
 
