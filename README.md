@@ -90,7 +90,7 @@ As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
 Just as word shows,this script is used to update typora.For more information,go [this page](https://github.com/Triple-R/typora-update) .
 
-*Current Version 0.9.53(beta)*
+*Current Version 0.9.54(beta)*
 
 #### WebStorm.sh
 
