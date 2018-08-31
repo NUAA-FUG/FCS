@@ -31,7 +31,7 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 - [x] Xsensors 查看 CPU 温度的小工具
 - [x] Google Chrome (Stable version) Chrome 浏览器
 - [x] Telegram 好用的通讯工具
-- [ ] Mendelay Desktop(Version 1.18) 管理分享研究论文的应用程序
+<!-- - [ ] Mendelay Desktop(Version 1.18) 管理分享研究论文的应用程序 -->
 - [x] Typora 好用的 Markdown 编辑器
 - [x] Steam 全球学习交流平台
 - [x] ibus-rime rime 输入法
@@ -47,8 +47,8 @@ Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.
 - [x] Shadowsocks-qt5 基于 Qt5 的客户端
 - [x] Proxychains-ng 
 - [x] Genpac 
-- [ ] Netease Cloud Music (CLI version)  网易云音乐命令行版
-- [ ] Netease Cloud Music (GUI version) 网易云音乐桌面版
+<!-- - [ ] Netease Cloud Music (CLI version)  网易云音乐命令行版
+- [ ] Netease Cloud Music (GUI version) 网易云音乐桌面版 -->
 
 ### 其他脚本
 
@@ -84,7 +84,7 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 #### typora_update.sh
 
-用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.53(beta)
+用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.54(beta)
 
 #### WebStorm.sh
 
