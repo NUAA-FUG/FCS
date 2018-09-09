@@ -7,7 +7,7 @@ wget -q --show-progress https://www.mendeley.com/autoupdates/installer/Linux-x64
 
 # Unzip tar.bz2 to folder /opt/
 
-sudo tar -xvf mendeley.tar.bz2 -C /opt/ --transform s/mendeleydesktop-1.19.1-linux-x86_64/mendeleydesktop/
+sudo tar -xvf mendeley.tar.bz2 -C /opt/ --transform s/mendeleydesktop-1.19.2-linux-x86_64/mendeleydesktop/
 
 # Delete package
 sudo rm mendeley.tar.bz2
