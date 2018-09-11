@@ -81,11 +81,7 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 #### typora_update.sh
 
-<<<<<<< HEAD
 用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.57(beta)
-=======
-用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.54(beta)
->>>>>>> upstream/master
 
 #### WebStorm.sh
 
