@@ -1,6 +1,6 @@
 # Fedora Common Script
 
-:us: | English :cn: | [中文](https://github.com/Triple-R/FCS/blob/master/README_zh.md)
+:us: | English :cn: | [中文](https://github.com/NUAA-FUG/FCS/blob/master/README_zh.md)
 ***
 
 ## Foreword
@@ -22,6 +22,7 @@ This script will install some basic sofeware and dependencies.
 - [x] Zeal
 - [x] OBS
 - [x] Calibre
+- [x] Anki 
 - [x] Uget
 - [x] VLC
 - [x] MKVToolNix
@@ -56,21 +57,16 @@ This script will install some basic sofeware and dependencies.
 
 This script will install Android Studio to your system,and the version of it is 3.1.2.
 
-#### Anki.sh
-
-> Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.    --[Official Website](https://apps.ankiweb.net/)
-
-*Current Version 2.0.50*
 
 #### Dropbox.sh
 
 It will help you install Dropbox in your Fedora.If you live in China,suggest strongly you should run `Script2CN.sh` before you run this script.
 
-#### IDEA-Community.sh && IDEA-Ultimate.sh
+#### IntelliJ-IDEA.sh
 
-IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,other one need to buy.`IDEA-Community.sh` will install the free version,`IDEA-Ultimate.sh` will install the version you should buy.
+IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,the other one need to buy.
 
-*Current Version 2018.1.4*
+*Current Version 2018.2*
 
 #### Java.sh
 
@@ -82,29 +78,33 @@ Set Oracle Java environment to your system.
 
 Not only can you use this script to install Mendeley but also update Mendeley in your Fedora.
 
-*Current Version 1.18*
+*Current Version 1.19.1*
 
-#### PyCharm-pro.sh
+#### PyCharm.sh
 
 As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
-*Current  Version 2018.1.4*
+*Current  Version 2018.2*
 
 #### typora_update.sh
 
 Just as word shows,this script is used to update typora.For more information,go [this page](https://github.com/Triple-R/typora-update) .
 
+<<<<<<< HEAD
 *Current Version 0.9.57(beta)*
+=======
+*Current Version 0.9.54(beta)*
+>>>>>>> upstream/master
 
 #### WebStorm.sh
 
 >The smartest JavaScript IDE
 >Powerful IDE for modern JavaScript development
 
-*Current Version 2018.1.4*
+*Current Version 2018.2*
 
 
 ## Copyright
 
-This repo is licensed by  [MIT License](https://github.com/Triple-R/FCS/blob/master/LICENSE) .
+This repo is licensed by  [MIT License](https://github.com/NUAA-FUG/FCS/blob/master/LICENSE) .
 
