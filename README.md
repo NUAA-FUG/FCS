@@ -32,7 +32,7 @@ This script will install some basic sofeware and dependencies.
 - [x] Xsensors
 - [x] Google Chrome (Stable version)
 - [x] Telegram
-- [ ] Mendelay Desktop(Version 1.18 )
+<!-- - [ ] Mendelay Desktop(Version 1.18 ) -->
 - [x] Typora
 - [x] Steam
 - [x] ibus-rime 
@@ -48,8 +48,8 @@ This script will install some basic sofeware and dependencies.
 - [x] Shadowsocks-qt5
 - [x] Proxychains-ng 
 - [x] Genpac
-- [ ] Netease Cloud Music (CLI version) 
-- [ ] Netease Cloud Music (GUI version)
+<!-- - [ ] Netease Cloud Music (CLI version) 
+- [ ] Netease Cloud Music (GUI version) -->
 
 ### Other-Script
 
@@ -90,7 +90,7 @@ As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
 Just as word shows,this script is used to update typora.For more information,go [this page](https://github.com/Triple-R/typora-update) .
 
-*Current Version 0.9.54(beta)*
+*Current Version 0.9.57(beta)*
 
 #### WebStorm.sh
 
