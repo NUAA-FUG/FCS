@@ -5,74 +5,35 @@
 
 ## 前言
 
-Fedora 通用脚本包含`Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你初始化。此外，`Script2CN.sh` 脚本是专门针对中国用户定制化的。5 月 1 号，Fedora 28 正式发布，所有的脚本开始升级到 Fedora 28，之前的脚本位于 ***Archived-F27*** 文件夹内并且不再更新，如果你还在使用 Fedora 27，你可以在该文件夹内找到你需要的脚本。
+Fedora 通用脚本包含 `Android-Studio.sh`，`Dropbox.sh`  `Mendeley-desktop.sh` 等等。这些脚本可以在你安装好 Fedora 后帮你快速安装好你所需要的软件并且设置好一些开发环境，例如 ==golang==。该项目所有脚本在 Fedora 28 Workstation  上成功测试。
 
-## 脚本简介
+*该项目只支持 64 位系统*
 
-### Basic.sh
+## 介绍
 
-该脚本将安装基础软件和依赖，例如添加 RPM Fusion 源，安装 VScode，Sublime Text 等软件。
+在 ==Applications== 文件夹下的脚本用来安装一些不能通过 `dnf` 命令来安装的软件。例如，Android Studio。在 ==EnvSet== 下的脚本会帮你设置好常用的一些开发环境，例如，Java。
 
-- [x] Add RPM Fusion Repository. 添加 RPM Fusion 源。
-- [x] Install NetworkManager plugins to make sure you can use DSL. 安装网络管理套件确保可以使用 DSL 拨号上网。
-- [x] Some tools to support NTFS and exFAT filesystem in case you can't read and write data from USB flash drive. 一些支持 NTFS 和 exFAT 文件格式的工具，避免无法从U盘读取数据。
-- [x] FFmpeg 可以运行音频和视频多种格式录影、转换、流功能等功能的自由软件。
-- [x] Visual Studio Code 编辑器
-- [x] Sublime Text 3 强大的编辑器
-- [x] Zeal 离线文档查阅管理软件
-- [x] OBS 录屏工具
-- [x] Calibre 电子书管理软件
-- [x] Anki 
-- [x] Uget 下载软件
-- [x] VLC 不错的播放器
-- [x] MKVToolNix 可对 MKV 格式的视频进行操作的工具
-- [x] WoeUSB Linux 下图形化制作U盘启动盘的工具
-- [x] Fedora Media Writer
-- [x] Etcher 基于 electron 的将系统镜像文件快速烧录进 USB 设备的应用
-- [x] Xsensors 查看 CPU 温度的小工具
-- [x] Google Chrome (Stable version) Chrome 浏览器
-- [x] Telegram 好用的通讯工具
-- [ ] Mendelay Desktop(Version 1.18) 管理分享研究论文的应用程序
-- [x] Typora 好用的 Markdown 编辑器
-- [x] Steam 全球学习交流平台
-- [x] ibus-rime rime 输入法
-- [x] Tweak and Chrome Gnome Shell (For gnome desktop environment)
-- [x] Node.js v8 LTS
-- [x] Golang
+## 脚本
 
-### Script2CN.sh
+### Applications
 
-- [x] Config DNS  配置 DNS
-- [x] Add FZUG Repository 添加 FZUG 源
-- [x] Shadowsocks  虚拟砖混结构建筑物逾越技术
-- [x] Shadowsocks-qt5 基于 Qt5 的客户端
-- [x] Proxychains-ng 
-- [x] Genpac 
-- [ ] Netease Cloud Music (CLI version)  网易云音乐命令行版
-- [ ] Netease Cloud Music (GUI version) 网易云音乐桌面版
+Android-Studio.sh
 
-### 其他脚本
-
-####  Android-Studio.sh
+#### Android-Studio.sh
 
 安装 Android Studio，当前版本是 3.1.2。
 
-
 #### Dropbox.sh
 
-Dropbox 是一款十分优秀的云同步应用，你可以通过此脚本来进行安装。建议在使用此脚本前，先使用 `Script2CN.sh` 脚本。
+Dropbox 是一款十分优秀的云同步应用，你可以通过此脚本来进行安装。
 
 #### IntelliJ-IDEA.sh
 
 IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。该脚本提供两个版本的下载安装，你可以选择你需要的版本。当前软件版本 V2018.2。
 
-#### Java.sh
-
-安装并设置 Oracle Java 开发环境。当前版本为 10.0.1。
-
 #### Mendeley-desktop.sh
 
-不错的管理和分享研究论文的应用，使用该脚本可以用来安装也可以用来更新。当前版本：1.19.1。
+不错的管理和分享研究论文的应用，使用该脚本可以用来安装也可以用来更新。当前版本：1.19.2。
 
 #### PyCharm.sh
 
@@ -85,6 +46,12 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 #### WebStorm.sh
 
 由 JetBrains 开发的适用于前端的强大的 IDE。当前版本：2018.2
+
+### EnvSet
+
+#### Java.sh
+
+安装并设置 Oracle Java 开发环境。当前版本为 10.0.1。
 
 ## 版权声明
 

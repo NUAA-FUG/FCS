@@ -5,62 +5,29 @@
 
 ## Foreword
 
-What does **FCS** mean? It means Fedora Common Script  that can help you initialize fedora quickly after you have installed fedora from USB flash drive.Until now,this repo include `Basic.sh` ，`Android-Studio.sh`， `Mendeley-desktop.sh` ,etc.Besides,there is also a script named `Script2CN.sh` for Chinese users.In 01 May,Fedora 28 has been released,so these scripts are upgrade to adapt Fedora 28.The former script  is in ***Archived-F27*** folder,if you still use Fedora 27,just go **Archived-F27** folder and choose script that you want to use.
+What does **FCS** mean? It means Fedora Common Script  that can help you install some basic software and set development environment  quickly after you have installed fedora from USB flash drive.
+
+## Introduction
+
+The scripts in **Applications** folder will help you install Dropbox,Android Studio, Mendeley, etc.And the scripts in **EnvSet** folder will help you set develogment environment quickly,for example,set golang environment and Java environment.
 
 ## Scripts
 
-### Basic.sh
-
-This script will install some basic sofeware and dependencies.
-
-- [x] Add RPM Fusion Repository.
-- [x] Install NetworkManager plugins to make sure you can use DSL.
-- [x] Some tools to support NTFS and exFAT filesystem in case you can't read and write data from USB flash drive.
-- [x] FFmpeg
-- [x] Visual Studio Code
-- [x] Sublime Text 3
-- [x] Zeal
-- [x] OBS
-- [x] Calibre
-- [x] Anki 
-- [x] Uget
-- [x] VLC
-- [x] MKVToolNix
-- [x] Fedora Media Writer
-- [x] WoeUSB
-- [x] Etcher
-- [x] Xsensors
-- [x] Google Chrome (Stable version)
-- [x] Telegram
-- [ ] Mendelay Desktop(Version 1.18 )
-- [x] Typora
-- [x] Steam
-- [x] ibus-rime 
-- [x] Tweak and Chrome Gnome Shell (For gnome desktop environment)
-- [x] Node.js v8 LTS
-- [x] Golang
-
-### Script2CN.sh
-
-- [x] Config DNS 
-- [x] Add FZUG Repository
-- [x] Shadowsocks
-- [x] Shadowsocks-qt5
-- [x] Proxychains-ng 
-- [x] Genpac
-- [ ] Netease Cloud Music (CLI version) 
-- [ ] Netease Cloud Music (GUI version)
-
-### Other-Script
+### Applications
 
 #### Android-Studio.sh
 
 This script will install Android Studio to your system,and the version of it is 3.1.2.
 
+#### Clion.sh
+
+> A cross-platform IDE for C and C++
+
+*Current Version 2018.2*
 
 #### Dropbox.sh
 
-It will help you install Dropbox in your Fedora.If you live in China,suggest strongly you should run `Script2CN.sh` before you run this script.
+As we all known,Dropbox is a good file hosting service.If you are dropbox user,just use this script to install it.
 
 #### IntelliJ-IDEA.sh
 
@@ -68,17 +35,11 @@ IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support
 
 *Current Version 2018.2*
 
-#### Java.sh
-
-Set Oracle Java environment to your system.
-
-*Current Version 10.0.1*
-
 #### Mendeley-desktop.sh
 
 Not only can you use this script to install Mendeley but also update Mendeley in your Fedora.
 
-*Current Version 1.19.1*
+*Current Version 1.19.2*
 
 #### PyCharm.sh
 
@@ -99,6 +60,13 @@ Just as word shows,this script is used to update typora.For more information,go 
 
 *Current Version 2018.2*
 
+### EnvSet
+
+#### Java.sh
+
+Set Oracle Java environment to your system.
+
+*Current Version 10.0.1*
 
 ## Copyright
 
