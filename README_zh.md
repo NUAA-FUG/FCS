@@ -21,7 +21,7 @@ Android-Studio.sh
 
 #### Android-Studio.sh
 
-安装 Android Studio，当前版本是 3.1.2。
+安装 Android Studio，当前版本是 3.2。
 
 #### Dropbox.sh
 

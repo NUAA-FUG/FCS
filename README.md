@@ -17,7 +17,7 @@ The scripts in **Applications** folder will help you install Dropbox,Android Stu
 
 #### Android-Studio.sh
 
-This script will install Android Studio to your system,and the version of it is 3.1.2.
+This script will install Android Studio to your system,and the version of it is 3.2.
 
 #### Clion.sh
 
