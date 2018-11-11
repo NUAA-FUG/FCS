@@ -41,6 +41,12 @@ Not only can you use this script to install Mendeley but also update Mendeley in
 
 *Current Version 1.19.2*
 
+#### netease-cloud-music.sh
+
+Use this script will install netease cloud music to system.
+
+*ps: This script can run on both Fedora 28 and Fedora 29*
+
 #### PyCharm.sh
 
 As we known,PyCharm is a powerful IDE for **Python**,so just use it!

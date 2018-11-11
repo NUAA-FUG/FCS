@@ -35,6 +35,10 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 不错的管理和分享研究论文的应用，使用该脚本可以用来安装也可以用来更新。当前版本：1.19.2。
 
+#### netease-cloud-music.sh
+
+通过该脚本你可以安装网易云音乐。该脚本在 Fedora 28 和 Fedora 29 经过测试皆可运行。
+
 #### PyCharm.sh
 
 众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.2。
