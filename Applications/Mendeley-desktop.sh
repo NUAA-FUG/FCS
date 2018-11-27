@@ -17,8 +17,8 @@ sudo rm -f mendeley.tar.bz2
 if [ ! -d "mendeleyPath" ]; then
     cd /opt/mendeleydesktop/bin/
     ./install-mendeley-link-handler.sh /opt/mendeleydesktop/bin/mendeleydesktop
-    sudo cp /opt/mendeleydesktop/share/icons/hicolor/128x128/apps/mendeleydesktop.png /usr/share/icons/
 else 
     cd /opt/mendeleydesktop/bin/
     ./install-mendeley-link-handler.sh /opt/mendeleydesktop/bin/mendeleydesktop
+    sudo cp /opt/mendeleydesktop/share/icons/hicolor/128x128/apps/mendeleydesktop.png /usr/share/icons/
 fi
