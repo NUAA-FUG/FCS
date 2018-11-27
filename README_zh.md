@@ -17,8 +17,6 @@ Fedora 通用脚本包含 `Android-Studio.sh`，`Dropbox.sh`  `Mendeley-desktop.
 
 ### Applications
 
-Android-Studio.sh
-
 #### Android-Studio.sh
 
 安装 Android Studio，当前版本是 3.2。
@@ -29,7 +27,7 @@ Dropbox 是一款十分优秀的云同步应用，你可以通过此脚本来进
 
 #### IntelliJ-IDEA.sh
 
-IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。该脚本提供两个版本的下载安装，你可以选择你需要的版本。当前软件版本 V2018.2。
+IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本，一个是免费的社区版，另一个是收费的专业版。该脚本提供两个版本的下载安装，你可以选择你需要的版本。当前软件版本 V2018.3。
 
 #### Mendeley-desktop.sh
 
@@ -41,21 +39,27 @@ IntelliJ IDEA 是 JetBrains 公司推出的一款 java IDE。它有两个版本�
 
 #### PyCharm.sh
 
-众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.2。
+众所周知，PyCharm 一款强大好用的 Python IDE。所以使用该脚本来安装它吧。当前版本为 V 2018.3。
 
-#### typora_update.sh
+#### typora.sh
 
-用来更新 typora 的脚本，详细信息去[此界面](https://github.com/Triple-R/typora-update)。当前版本：0.9.57(beta)
+你可以使用此脚本来进行安装 typora 也可以用于更新 typora。
 
 #### WebStorm.sh
 
-由 JetBrains 开发的适用于前端的强大的 IDE。当前版本：2018.2
+由 JetBrains 开发的适用于前端的强大的 IDE。当前版本：2018.3
 
 ### EnvSet
 
 #### Java.sh
 
 安装并设置 Oracle Java 开发环境。当前版本为 10.0.1。
+
+#### node.sh
+
+安装 Nodejs 环境
+
+Nodejs 版本：10.x
 
 ## 版权声明
 

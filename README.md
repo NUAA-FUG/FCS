@@ -19,12 +19,6 @@ The scripts in **Applications** folder will help you install Dropbox,Android Stu
 
 This script will install Android Studio to your system,and the version of it is 3.2.
 
-#### Clion.sh
-
-> A cross-platform IDE for C and C++
-
-*Current Version 2018.2*
-
 #### Dropbox.sh
 
 As we all known,Dropbox is a good file hosting service.If you are dropbox user,just use this script to install it.
@@ -33,7 +27,7 @@ As we all known,Dropbox is a good file hosting service.If you are dropbox user,j
 
 IntelliJ IDEA,a greatest JAVA IDE.Not only do IDEA support java but also support other program languages like Kotlin.It has two versions.One is free,the other one need to buy.
 
-*Current Version 2018.2*
+*Current Version 2018.3*
 
 #### Mendeley-desktop.sh
 
@@ -51,20 +45,18 @@ Use this script will install netease cloud music to system.
 
 As we known,PyCharm is a powerful IDE for **Python**,so just use it!
 
-*Current  Version 2018.2*
+*Current  Version 2018.3*
 
-#### typora_update.sh
+#### typora.sh
 
-Just as word shows,this script is used to update typora.For more information,go [this page](https://github.com/Triple-R/typora-update) .
-
-*Current Version 0.9.57(beta)*
+You can use this script install typora to your system and update typora also.
 
 #### WebStorm.sh
 
 >The smartest JavaScript IDE
 >Powerful IDE for modern JavaScript development
 
-*Current Version 2018.2*
+*Current Version 2018.3*
 
 ### EnvSet
 
@@ -73,6 +65,12 @@ Just as word shows,this script is used to update typora.For more information,go 
 Set Oracle Java environment to your system.
 
 *Current Version 10.0.1*
+
+#### node.sh
+
+Install nodejs and yarn to your system.
+
+*Nodejs version: 10.x*
 
 ## Copyright
 
