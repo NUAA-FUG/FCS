@@ -1,25 +1,18 @@
 #!/bin/sh
 
-# Open user directory
+typoraPath="/opt/typora"
 cd ~/Downloads
 
-
-# Download 
-wget -q --show-progress https://typora.io/linux/Typora-linux-x64.tar.gz
-
-# Unzip tar package to /opt/ directory
-sudo tar -zxvf Typora-linux-x64.tar.gz -C /opt/
-
-# Open /opt/ diretcory
-cd /opt/
-
-# delete the formal typora folder 
-sudo rm -rf -v typora/
-
-sudo mv Typora-linux-x64/ typora/
-
-# Delete the formal tar.gz of typora
-
-cd ~/Downloads
-
-rm -i Typora-linux-x64.tar.gz
+if [ ! -d "typoraPath" ]; then # the typora folder not exist
+    git clone https://github.com/RPM-Outpost/typora.git
+    cd typora
+    ./create-package.sh x64
+else
+    cd ~/Downloads
+    wget -q --show-progress https://typora.io/linux/Typora-linux-x64.tar.gz
+    sudo tar -zxvf Typora-linux-x64.tar.gz -C /opt/
+    sudo rm -f Typora-linux-x64.tar.gz
+    cd /opt/
+    sudo rm -rf -v typora/
+    sudo mv Typora-linux-x64/ typora/
+fi
