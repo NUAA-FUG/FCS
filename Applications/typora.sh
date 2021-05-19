@@ -3,7 +3,7 @@
 typoraPath="/opt/typora"
 cd ~/Downloads
 
-if [ ! -d "typoraPath" ]; then # the typora folder exist
+if [ -d $typoraPath ]; then # the typora folder exist
     cd ~/Downloads
     wget -q --show-progress https://typora.io/linux/Typora-linux-x64.tar.gz
     sudo tar -zxvf Typora-linux-x64.tar.gz -C /opt/
